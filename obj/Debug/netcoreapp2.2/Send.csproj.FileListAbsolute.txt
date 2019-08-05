@@ -1,0 +1,11 @@
+C:\Priscila\Send\bin\Debug\netcoreapp2.2\Send.deps.json
+C:\Priscila\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+C:\Priscila\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+C:\Priscila\Send\bin\Debug\netcoreapp2.2\Send.dll
+C:\Priscila\Send\bin\Debug\netcoreapp2.2\Send.pdb
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.dll
+C:\Priscila\Send\obj\Debug\netcoreapp2.2\Send.pdb
